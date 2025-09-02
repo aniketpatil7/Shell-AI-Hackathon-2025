@@ -30,4 +30,11 @@ This project focuses on predicting multiple fuel blend properties from a dataset
 
 ---
 
+## Results
+
+- Achieved **Top 20** ranking in the Shell.ai Hackathon.
+- High accuracy multivariate predictions for 10 fuel blend properties.
+- Significant reduction in prediction error through ensemble learning and hyperparameter tuning.
+
+---
 
